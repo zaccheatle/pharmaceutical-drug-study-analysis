@@ -15,13 +15,15 @@ calculate final tumor volume for the four most prominent drug regimens
 total number of mice in study
 gender breakdown of mice
 
-3 - Created line and scatter plots w/regression analysis to understand the relationship between mouse weight and tumor volume. 
+3. Created a box and whisker plot to get the final tumor volume for each drug regimen to compare effectiveness. 
+
+4. - Created line and scatter plots w/regression analysis to understand the relationship between mouse weight and tumor volume. 
 
 
 ## Observations and Insights
 
 ### Demographic Summary
-- The bar graph shows that Capomulin has the largest mice count at 230, and Zoniferol has the smallest mice count at 182. After removing duplicates the total number of mice observed in the study was 249; 124 female mice and 125 male mice.
+- Capomulin has the largest mice count at 230, and Zoniferol has the smallest mice count at 182. After removing duplicates the total number of mice observed in the study was 249; 124 female mice and 125 male mice.
 
 ### Regression Analysis for Capomulin Treatment
 - The correlation between mouse weight and average tumor volume is 0.84; a strong positive correlation. When mouse weight increases the average tumor volume also increases.
