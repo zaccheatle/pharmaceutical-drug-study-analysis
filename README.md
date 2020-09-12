@@ -23,9 +23,9 @@ gender breakdown of mice
 ### Demographic Summary
 - The bar graph shows that Capomulin has the largest mice count at 230, and Zoniferol has the smallest mice count at 182. After removing duplicates the total number of mice observed in the study was 249; 124 female mice and 125 male mice.
 
-### Correlation Summary
-- The correlation between mouse weight and average tumor volume is 0.84; a strong positive correlation, suggesting that when the mouse weight increases the average tumor volume also increases.
+### Regression Analysis for Capomulin Treatment
+- The correlation between mouse weight and average tumor volume is 0.84; a strong positive correlation. When mouse weight increases the average tumor volume also increases.
 
-- The regression analysis explains how much a change in mouse weight will change the average tumor volume. The R-squared value is 0.70, which means there is a strong positive relationship between mouse weight and average tumor volume. As mouse weight increases by .95, tumor volume increases by 21.55. 
+- The regression analysis explains how much of the variability in average tumor volume is influence by the variability in mouse weight. With an R-squared value of .70 there is a positive linear relationship between mouse weight and average tumor volume; a one gram increase in mouse weight results in .95 mm3 increase in tumor volume. 
 
-- Based on this analysis we can conlude that drug regimines Capomulin and Ramicane are most effective at reducing tumor volume. 
+- Based on this analysis we can conlude that drugs Capomulin and Ramicane are most effective in reducing tumor volume, and mice treated with Ramicane had the lowest average final tumor volume compared to the other drug regimens. 
