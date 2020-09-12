@@ -1,10 +1,10 @@
 # Matplotlib Analysis Project
 
-## Project Summary
-Provide a top level summary of Pymaceuticals most recent animal study
+## Study Background
+Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this project is to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens and provide a top level summary.
 
 ## Tools Used
-Pythons Matplotli and Pandas Libraries
+Pythons Matplotlib and Pandas Libraries
 
 ## Summary of Analysis
 1 - Cleaned and organized the dataset using pandas
