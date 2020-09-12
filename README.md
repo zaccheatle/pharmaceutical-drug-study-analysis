@@ -28,4 +28,4 @@ gender breakdown of mice
 
 - The regression analysis explains how much of the variability in average tumor volume is influence by the variability in mouse weight. With an R-squared value of .70 there is a positive linear relationship between mouse weight and average tumor volume; a one gram increase in mouse weight results in .95 mm3 increase in tumor volume. 
 
-- Based on this analysis we can conlude that drugs Capomulin and Ramicane are most effective in reducing tumor volume, and mice treated with Capomulin had the lowest final tumor volume compared to the other drug regimens. 
+- Based on this analysis we can conlude that drugs Capomulin and Ramicane are most effective in reducing tumor volume, and mice treated with Ramicane had the lowest average final tumor volume compared to the other drug regimens. 
